@@ -5,7 +5,7 @@ const sizeOf = require("image-size");
 
 //CONFIG
 const BG_COLOR = "#ffffff"; //farba ramu
-const SOURCE_FOLDER = "!src_with_test_photos"; //folder odkial sa cerpa fotka
+const SOURCE_FOLDER = "SOURCE_FOLDER"; //folder odkial sa cerpa fotka
 const EXPORTS_FOLDER = "!export"; //folder kam sa uklada oramovana fotka
 const TEXT_GREEN = "\x1b[32m";
 const TEXT_RED = "\x1b[31m";
